@@ -1,2 +1,5 @@
 # notebook checkpoints
 .ipynb_checkpoints/
+
+# pyenv version
+.python-version
